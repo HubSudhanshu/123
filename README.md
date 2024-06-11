@@ -33,9 +33,12 @@ The Consumer Details section provides detailed insights into customer demographi
 
 ![Picture1](https://github.com/HubSudhanshu/123/assets/140691182/c5b62d73-b030-4848-a174-c5918067d74f)
 
-![Picture3](https://github.com/HubSudhanshu/123/assets/140691182/19ca99d2-4208-46ea-80e4-178daa398376)
+![Capture5](https://github.com/HubSudhanshu/123/assets/140691182/81b7a37c-f845-4c89-8801-42a20a56bead)
 
 ![Picture2](https://github.com/HubSudhanshu/123/assets/140691182/e61a5fe3-2954-4337-a48b-3b4135709588)
+
+![Picture3](https://github.com/HubSudhanshu/123/assets/140691182/19ca99d2-4208-46ea-80e4-178daa398376)
+
 
 
 
