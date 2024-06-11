@@ -17,7 +17,7 @@ Adventure Works dataset: [Adventure Works Dataset](https://drive.google.com/driv
 
 The Executive Dashboard provides a high-level overview of key performance indicators (KPIs) and metrics relevant to the business. This section is designed for executives and managers who need quick insights into the overall performance of the company.
 
-### 1.1) Navigation Bar
+#### 1.1) Navigation Bar
 
 The Navigation Bar includes six buttons with distinct functionalities:
 
@@ -33,8 +33,9 @@ The Navigation Bar includes six buttons with distinct functionalities:
   - 
 ![Navigation Bar](https://github.com/HubSudhanshu/123/assets/140691182/99dbb2e0-90e6-4867-91d0-5e8a501e87a2)
 
+
  
-### 1.2) Page Overview
+#### 1.2) Page Overview
 
 The Executive Dashboard page includes a total of 10 cards:
 
@@ -62,12 +63,15 @@ Additionally, the page includes the following visualizations:
 ![Executive Drill Through](https://github.com/HubSudhanshu/123/assets/140691182/3c81d230-611a-4417-9a13-fa19db0367f4)
 
 
+
+
 ### 2. Map
 
 The Map section presents geographical visualizations of sales performance across different regions. It allows users to analyze sales trends, identify lucrative markets, and pinpoint areas for potential expansion or improvement.
 
 
-### 2.2) Page Overview 
+
+#### 2.1) Page Overview 
 
 The Map page provides granular data visualization based on continent. This section includes the following features and visualizations:
 
@@ -80,12 +84,16 @@ The Map page provides granular data visualization based on continent. This secti
 For detailed visuals and examples, refer to the visualization and screenshots provided at the bottom of this document.
 
 
+
+
 ### 3. Product Details
 
 The Product Details section offers an in-depth analysis of product performance, including popularity and sales trends. Users can explore various metrics related to product sales, customer preferences, and inventory management to make informed decisions about product strategies.
 
 
-### 3.3) Page Overview 
+
+
+#### 3.1) Page Overview 
 
 The Product Details page includes a total of six visualizations and two slicers, organized as follows:
 
@@ -107,12 +115,14 @@ For detailed visuals and examples, refer to the visualization and screenshots pr
 
 
 
+
 ### 4. Consumer Details
 
 The Consumer Details section provides detailed insights into customer demographics and purchasing behaviors. By understanding the characteristics and preferences of their customer base, businesses can tailor their marketing strategies and improve customer satisfaction.
 
 
-### 4.4) Page Overview 
+
+#### 4.1) Page Overview 
 
 The Consumer Details page is divided into three main parts, each providing detailed insights into customer demographics and purchasing behaviors:
 
@@ -125,6 +135,7 @@ The Consumer Details page is divided into three main parts, each providing detai
   - **Orders by Organization Level**: Displays the distribution of orders based on the organizational level of customers.
   
   ![consumer1](https://github.com/HubSudhanshu/123/assets/140691182/75ab27a2-71b6-4d88-afc3-0dbc4c06089f)
+  
 
 
 #### Part 2: Line Chart and Customer Table
@@ -136,6 +147,7 @@ The Consumer Details page is divided into three main parts, each providing detai
 ![consumer2](https://github.com/HubSudhanshu/123/assets/140691182/9655c4c1-dc7b-4ec3-b960-7d6445ea4973)
 
 
+
 #### Part 3: Detailed Metrics and Slicer
 - **Cards**:
   - Three cards displaying key metrics related to customer demographics and purchasing behaviors. These metrics can include total orders, average order value, and customer lifetime value.
@@ -145,6 +157,7 @@ The Consumer Details page is divided into three main parts, each providing detai
 This structured layout ensures a comprehensive analysis of customer data, enabling businesses to make informed decisions based on detailed visualizations and metrics.
 
 ![consumer3](https://github.com/HubSudhanshu/123/assets/140691182/1c7d0f92-95bb-4580-897a-cf7d80c73a62)
+
 
 
 
