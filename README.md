@@ -17,6 +17,8 @@ Adventure Works dataset: [Adventure Works Dataset](https://drive.google.com/driv
 
 The Executive Dashboard provides a high-level overview of key performance indicators (KPIs) and metrics relevant to the business. This section is designed for executives and managers who need quick insights into the overall performance of the company.
 
+    ### 1.1 Navigation Bar 
+
 ### 2. Product Details
 
 The Product Details section offers an in-depth analysis of product performance, including popularity and sales trends. Users can explore various metrics related to product sales, customer preferences, and inventory management to make informed decisions about product strategies.
