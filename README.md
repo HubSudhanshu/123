@@ -17,7 +17,7 @@ Adventure Works dataset: [Adventure Works Dataset](https://drive.google.com/driv
 
 The Executive Dashboard provides a high-level overview of key performance indicators (KPIs) and metrics relevant to the business. This section is designed for executives and managers who need quick insights into the overall performance of the company.
 
-    ### 1.1 Navigation Bar 
+### 1.1 Navigation Bar 
 
 ### 2. Product Details
 
