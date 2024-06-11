@@ -33,8 +33,7 @@ The Navigation Bar includes six buttons with distinct functionalities:
   - 
 ![Navigation Bar](https://github.com/HubSudhanshu/123/assets/140691182/99dbb2e0-90e6-4867-91d0-5e8a501e87a2)
 
-  
-
+ 
 ### 1.2) Page Overview
 
 The Executive Dashboard page includes a total of 10 cards:
@@ -63,18 +62,92 @@ Additionally, the page includes the following visualizations:
 ![Executive Drill Through](https://github.com/HubSudhanshu/123/assets/140691182/3c81d230-611a-4417-9a13-fa19db0367f4)
 
 
+### 2. Map
 
-### 2. Product Details
+The Map section presents geographical visualizations of sales performance across different regions. It allows users to analyze sales trends, identify lucrative markets, and pinpoint areas for potential expansion or improvement.
+
+
+### 2.2) Page Overview 
+
+The Map page provides granular data visualization based on continent. This section includes the following features and visualizations:
+
+- **Interactive Map**: Displays sales performance across different continents, allowing users to zoom in and out to view specific regions in detail.
+- **Data Filters**: Users can apply filters to narrow down the data based on specific criteria such as year and continent.
+- **Visualization Components**:
+  - Heatmaps: Show intensity of sales in various regions.
+  - Marker Clusters: Highlight key sales points and aggregate data for easier analysis.
+
+For detailed visuals and examples, refer to the visualization and screenshots provided at the bottom of this document.
+
+
+### 3. Product Details
 
 The Product Details section offers an in-depth analysis of product performance, including popularity and sales trends. Users can explore various metrics related to product sales, customer preferences, and inventory management to make informed decisions about product strategies.
 
-### 3. Map
 
-The Map section presents geographical visualizations of sales performance across different regions. It allows users to analyze sales trends, identify lucrative markets, and pinpoint areas for potential expansion or improvement.
+### 3.3) Page Overview 
+
+The Product Details page includes a total of six visualizations and two slicers, organized as follows:
+
+- **Top Section (Left to Right)**:
+  - **Card Visualization**: Displays the product selected from the Executive Dashboard using the drill-through feature.
+  - **Three Gauge Charts**: Show monthly order, revenue, and profit, compared to targets. The target is set to a 10% increment over the current month, calculated by multiplying the current month's figures by 1.10.
+
+- **Middle Section**:
+  - **Slicer**: Adjusts the profit based on current profit. This slicer allows users to see the impact of different profit adjustments.
+  - **Line Chart**: Displays the adjusted profit based on the slicer data selection. The slicer is placed to the left of the line chart for easy data manipulation.
+
+- **Bottom Section**:
+  - **Area Chart**: Visualizes data based on product metrics.
+  - **Slicer**: Allows users to filter the data displayed in the area chart based on selected product metrics.
+
+This layout ensures that users can effectively analyze product performance and make informed decisions based on comprehensive and detailed visual data. 
+
+For detailed visuals and examples, refer to the visualization and screenshots provided at the bottom of this document.
+
+
 
 ### 4. Consumer Details
 
 The Consumer Details section provides detailed insights into customer demographics and purchasing behaviors. By understanding the characteristics and preferences of their customer base, businesses can tailor their marketing strategies and improve customer satisfaction.
+
+
+### 4.4) Page Overview 
+
+The Consumer Details page is divided into three main parts, each providing detailed insights into customer demographics and purchasing behaviors:
+
+#### Part 1: Overview Cards and Donut Charts
+- **Cards**:
+  - **Total Customers**: Displays the total number of customers.
+  - **Average Revenue per Customer**: Shows the average revenue generated per customer.
+- **Donut Charts**:
+  - **Orders by Income Level**: Visualizes the distribution of orders based on customer income levels.
+  - **Orders by Organization Level**: Displays the distribution of orders based on the organizational level of customers.
+  
+  ![consumer1](https://github.com/HubSudhanshu/123/assets/140691182/75ab27a2-71b6-4d88-afc3-0dbc4c06089f)
+
+
+#### Part 2: Line Chart and Customer Table
+- **Line Chart**:
+  - Accompanied by a slicer at the top, which allows users to toggle between "Total Customers" and "Revenue per Customer". This slicer dynamically updates the line chart to reflect the selected metric.
+- **Top 100 Customers Table**:
+  - Displays detailed information about the top 100 customers, including relevant metrics such as total orders, total revenue, and average order value.
+
+![consumer2](https://github.com/HubSudhanshu/123/assets/140691182/9655c4c1-dc7b-4ec3-b960-7d6445ea4973)
+
+
+#### Part 3: Detailed Metrics and Slicer
+- **Cards**:
+  - Three cards displaying key metrics related to customer demographics and purchasing behaviors. These metrics can include total orders, average order value, and customer lifetime value.
+- **Slicer**:
+  - Positioned at the top of this section, the slicer allows users to filter the data displayed in the cards based on various criteria, such as customer segment or purchase frequency.
+
+This structured layout ensures a comprehensive analysis of customer data, enabling businesses to make informed decisions based on detailed visualizations and metrics.
+
+![consumer3](https://github.com/HubSudhanshu/123/assets/140691182/1c7d0f92-95bb-4580-897a-cf7d80c73a62)
+
+
+
 
 ## visualizations & Screenshots 
 
