@@ -17,7 +17,20 @@ Adventure Works dataset: [Adventure Works Dataset](https://drive.google.com/driv
 
 The Executive Dashboard provides a high-level overview of key performance indicators (KPIs) and metrics relevant to the business. This section is designed for executives and managers who need quick insights into the overall performance of the company.
 
-###### 1.1) Navigation Bar - The point of interest in this section includes the 6 Buttons included, the top 2 i.e the arrow and the funnel is used for clearing and applying the filter that affects the visualization with respect to year and continent. The bottom ones are used For page navigation i.e the four pages named 1)Executive Dashboard, 2)Map, 3)Product Details, 4)Consumer Details.  
+### 1.1) Navigation Bar
+
+The Navigation Bar includes six buttons with distinct functionalities:
+
+- **Top Buttons**:
+  - **Arrow**: Used for clearing the applied filters.
+  - **Funnel**: Used for applying filters that affect the visualizations with respect to year and continent.
+
+- **Bottom Buttons**:
+  - **Executive Dashboard**: Navigates to the Executive Dashboard page.
+  - **Map**: Navigates to the Map page.
+  - **Product Details**: Navigates to the Product Details page.
+  - **Consumer Details**: Navigates to the Consumer Details page.
+
 
 ### 2. Product Details
 
