@@ -30,6 +30,38 @@ The Navigation Bar includes six buttons with distinct functionalities:
   - **Map**: Navigates to the Map page.
   - **Product Details**: Navigates to the Product Details page.
   - **Consumer Details**: Navigates to the Consumer Details page.
+  - 
+![Navigation Bar](https://github.com/HubSudhanshu/123/assets/140691182/99dbb2e0-90e6-4867-91d0-5e8a501e87a2)
+
+  
+
+### 1.2) Page Overview
+
+The Executive Dashboard page includes a total of 10 cards:
+
+- **Top Four Cards**:
+  - Revenue
+  - Profit
+  - Total Order Transactions
+  - Return Rate
+
+- **Bottom Left Cards**:
+  - Monthly Order
+  - Monthly Revenue
+  - Monthly Return
+
+- **Bottom Right Cards**:
+  - Most Ordered Product Type
+  - Most Returned Product Type
+
+Additionally, the page includes the following visualizations:
+
+- **Line Chart**: Shows revenue using date hierarchy.
+- **Stacked Bar Chart**: Displays orders by category.
+- **Matrix Chart**: Shows orders, revenue, and returns by applying a Top N filter, which displays the top 10 products. This chart includes a drill-through feature that directs you to the Product Details page.
+
+![Executive Drill Through](https://github.com/HubSudhanshu/123/assets/140691182/3c81d230-611a-4417-9a13-fa19db0367f4)
+
 
 
 ### 2. Product Details
