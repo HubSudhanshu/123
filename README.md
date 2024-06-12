@@ -8,7 +8,7 @@ Live Dashboard Link: [Link](https://app.powerbi.com/links/UNQ9L2ZPeT?ctid=e40f29
 
     Use The following credentials to access the Live Dashboard
     id - SudhanshuSingh@connecttome.onmicrosoft.com
-    Password - Zebronics@7630
+    Password - KeyboardWarrior@0000
 
 Adventure Works dataset: [Adventure Works Dataset](https://drive.google.com/drive/folders/1ogNW7dkWI2YaPSymH6dkfQf_alAtIqAh?usp=drive_link)
 
