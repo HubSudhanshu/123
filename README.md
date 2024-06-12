@@ -6,7 +6,7 @@ The Adventure Works Report is an interactive and insightful Power BI dashboard t
 
 Live Dashboard Link: [Link](https://app.powerbi.com/links/UNQ9L2ZPeT?ctid=e40f29fa-aba9-4e37-9c44-69b62eb0a14e&pbi_source=linkShare)
 
-    Use The following credentials to access the report 
+    Use The following credentials to access the Live Dashboard
     id - SudhanshuSingh@connecttome.onmicrosoft.com
     Password - Zebronics@7630
 
