@@ -4,7 +4,7 @@
 
 The Adventure Works Report is an interactive and insightful Power BI dashboard that provides a detailed analysis of the Adventure Works dataset. It offers comprehensive insights into various aspects of the business, including key performance indicators, product performance, geographical sales distribution, and customer demographics.
 
-Live Dashboard Link: [https://app.powerbi.com/view?r=eyJrIjoiZTBiNDRmMzktZGRjNi00NmY2LWEwYTEtOGZlMTIzYmQ0NTE3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9]
+Live Dashboard Link: [https://bit.ly/AdventureWorkSalesReport]
 
    
 Adventure Works dataset: [Adventure Works Dataset](https://drive.google.com/drive/folders/1ogNW7dkWI2YaPSymH6dkfQf_alAtIqAh?usp=drive_link)
